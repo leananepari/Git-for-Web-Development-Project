@@ -40,7 +40,9 @@ In order to do this, you **do not** need to create new forks of these projects. 
   - [x] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
   |[Resource](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)|
 
-- [ ] Research and set up a Graphical User Interface (GUI) Git console. 
+- [x] Research and set up a Graphical User Interface (GUI) Git console. 
+|[Resourse](https://codehangar.io/git-gui-vs-command-line/)|
+|[Resourse](https://www.quora.com/As-a-Git-beginner-should-I-use-command-line-or-a-GUI-based-client)|
 
-- [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
+- [x] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
 
