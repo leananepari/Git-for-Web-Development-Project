@@ -32,10 +32,13 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
-- [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
-  - [ ] Research and understand what a `merge conflict` is and how to resolve it.
-  - [ ] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
-  - [ ] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
+- [x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git. 
+  - [x] Research and understand what a `merge conflict` is and how to resolve it. 
+  |[Resource](https://help.github.com/en/articles/about-merge-conflicts)|
+  - [x] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
+  |[Resource](https://www.youtube.com/watch?v=TymF3DpidJ8)| |[Resource](https://www.atlassian.com/git/tutorials/syncing/git-pull)|
+  - [x] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
+  |[Resource](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)|
 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
 
